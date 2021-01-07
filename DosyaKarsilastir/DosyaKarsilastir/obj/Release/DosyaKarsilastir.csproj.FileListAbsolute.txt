@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\bin\Release\DosyaKarsilastir.exe.config
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\bin\Release\DosyaKarsilastir.exe
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\bin\Release\DosyaKarsilastir.pdb
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.Form1.resources
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.Properties.Resources.resources
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.exe
+C:\Users\User\source\repos\DosyaKarsilastir\DosyaKarsilastir\obj\Release\DosyaKarsilastir.pdb
